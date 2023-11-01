@@ -29,10 +29,8 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 |7|Muss|Q| Als ein Spieler möchte ich, dass Sounds hinzugefügt werden, um das Spielerlebnis zu verbessern.|
 |8|Muss|F|Als ein Spieler möchte ich mich ducken können, und dabei möchte ich langsamer fortbewegen können, um besser ausweichen zu können.|
 |9|Muss|F||
-|10|Muss|F||
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
@@ -46,8 +44,7 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 |6.1 |Das Spiel läuft und der Spieler hat das Spiel beendet.|Der Spieler beendet das Spiel oder erreicht ein Game Over.|Die Game Over Scene wird angezeigt, um den Spieler über das Spielende zu informieren.|
 |8.1|Der Spielercharakter kann sich bewegen.|Der Spieler versucht, den Charakter ducken zu lassen und sich langsamer zu bewegen.|Der Charakter duckt sich und bewegt sich langsamer, um es dem Spieler zu ermöglichen, Angriffen auszuweichen.|
 |||||
-|||||
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 
 ## 2 Planen
