@@ -28,7 +28,6 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 |6|Muss|F|Als ein Spieler möchte ich, dass die Game Over Scene erstellt wird, um den Spielabschluss anzuzeigen.|
 |7|Muss|Q| Als ein Spieler möchte ich, dass Sounds hinzugefügt werden, um das Spielerlebnis zu verbessern.|
 |8|Muss|F|Als ein Spieler möchte ich mich ducken können, und dabei möchte ich langsamer fortbewegen können, um besser ausweichen zu können.|
-|9|Muss|F||
 
 
 
@@ -49,18 +48,17 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 
 ## 2 Planen
 
-| AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
-| ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |20.9|Giovanni|Implementierung des grundlegenden Player-Movements, einschließlich Bewegung nach links und rechts.|180'|
-|1.B|-|Giovanni| Implementierung von zusätzlichen Bewegungsaktionen wie Springen und Ducken.|180'|
-|2.A|-|Steven|Erstellung des Hauptmenüs mit Optionen wie "Play", "Options" und "Quit".|180'|
-|3.A|-|Giuliano| Implementierung der Healthbar, die den Gesundheitszustand des Spielers anzeigt.|180'|
-|4.A||Giovanni| Implementierung von grundlegenden Animationen für den Spielercharakter, einschließlich Laufen, Springen und Ducken.|120'|
-|5.A||Giovanni|Implementierung von Grundmechaniken für den Spielerkampf, einschließlich Angriff und Verteidigung.|240'|
-|6.A||Steven|Erstellung der Game Over Scene, die dem Spieler das Spielende anzeigt.|120'|
-|7.A||Giuliano|Hinzufügen von Soundeffekten und Hintergrundmusik, um das Spielerlebnis zu bereichern.|180'|
-|8.A||Giovanni|Implementierung der Fähigkeit des Spielers, sich zu ducken und dabei langsamer zu bewegen, um Angriffen auszuweichen.|180'|
-||||||
+| AP-№ | Frist    | Zuständig | Beschreibung                                          | geplante Zeit |
+| ---- | -------- | --------- | ----------------------------------------------------- | ------------- |
+| 1.A  | 20.09.23 | Giovanni  | Implementierung des grundlegenden Player-Movements, einschließlich Bewegung nach links und rechts. | 180' |
+| 1.B  | 20.09.23 | Giovanni  | Implementierung von zusätzlichen Bewegungsaktionen wie Springen und Ducken. | 180' |
+| 2.A  | 18.10.23 | Steven    | Erstellung des Hauptmenüs mit Optionen wie "Play", "Options" und "Quit." | 180' |
+| 3.A  | 18.10.23 | Giuliano  | Implementierung der Healthbar, die den Gesundheitszustand des Spielers anzeigt. | 180' |
+| 4.A  | 18.10.23        | Giovanni  | Implementierung von grundlegenden Animationen für den Spielercharakter, einschließlich Laufen, Springen und Ducken. | 120' |
+| 5.A  | 1.11.23        | Giovanni  | Implementierung von Grundmechaniken für den Spielerkampf, einschließlich Angriff und Verteidigung. | 240' |
+| 6.A  | 1.11.23        | Steven    | Erstellung der Game Over Scene, die dem Spieler das Spielende anzeigt. | 120' |
+| 7.A  | 1.11.23        | Giuliano  | Hinzufügen von Soundeffekten und Hintergrundmusik, um das Spielerlebnis zu bereichern. | 180' |
+| 8.A  | 1.11.23        | Giovanni  | Implementierung der Fähigkeit des Spielers, sich zu ducken und dabei langsamer zu bewegen, um Angriffen auszuweichen. | 180' |
 
 ## 3 Realisieren
 
@@ -68,13 +66,20 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 | ---- | --------- | --------- | ------------- | ----------------- |
 | 1.A  | 20.09.23  | Giovanni  | 180 Minuten   |       180 Minuten|
 | 1.B  | 20.09.23  | Giovanni  | 180 Minuten   | 180 Minuten|
+|Dokumentation schreiben|20.09.23|Giovanni|10|10|
 | 2.A  | 18.10.23  | Steven    | 180 Minuten   | 180 Minuten      |
 | 3.A  | 18.10.23  | Giuliano  | 180 Minuten   | 180 Minuten       |
 | 4.A  | 18.10.23  | Giovanni  | 120 Minuten   | 120 Minuten    |
+| Dokumentation schreiben | 18.10.23 | Giuliano | 10 | 10 |
 | 5.A  | 01.11.23  | Giovanni  | 240 Minuten   | 240 Minuten      |
 | 6.A  | 01.11.23  | Steven    | 120 Minuten   | 120 Minuten       |
 | 7.A  | 01.11.23  | Giuliano  | 180 Minuten   | 180 Minuten    |
 | 8.A  | 01.11.23| Giovanni  | 180 Minuten   | 180 Minuten|
+|Dokumentation schreiben|01.11.23|Steven|10|10|
+| Portfolio schreiben | 08.11.23  | Steven, Giovanni, Giuliano | 90 Minuten | 90 Minuten |
+
+
+
 
 
 ## 4 Kontrollieren
@@ -83,7 +88,14 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |08.11       |   OK       |   Giuliano     |
+| 2.1  |  08.11     |    OK      |  Giuliano      |
+| 3.1  |08.11       |     OK     |  Giuliano      |
+| 4.1  |  08.11     |   OK       |  Giuliano      |
+| 5.1  |08.11       |  OK        | Giuliano       |
+| 6.1  |  08.11     |    NOK      |  Giuliano      |
+| 8.1  |  08.11     |     NOK     |  Giuliano      |
+
+
 
 
