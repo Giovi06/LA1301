@@ -93,7 +93,7 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 | 3.1  |08.11       |     OK     |  Giuliano      |
 | 4.1  |  08.11     |   OK       |  Giuliano      |
 | 5.1  |08.11       |  OK        | Giuliano       |
-| 6.1  |  08.11     |    NOK      |  Giuliano      |
+| 6.1  |  08.11     |    OK      |  Giuliano      |
 | 8.1  |  08.11     |     NOK     |  Giuliano      |
 
 
