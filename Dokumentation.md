@@ -59,6 +59,8 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 | 6.A  | 1.11.23        | Steven    | Erstellung der Game Over Scene, die dem Spieler das Spielende anzeigt. | 120' |
 | 7.A  | 1.11.23        | Giuliano  | Hinzufügen von Soundeffekten und Hintergrundmusik, um das Spielerlebnis zu bereichern. | 180' |
 | 8.A  | 1.11.23        | Giovanni  | Implementierung der Fähigkeit des Spielers, sich zu ducken und dabei langsamer zu bewegen, um Angriffen auszuweichen. | 180' |
+|9.A|08.11.23|Alle|Dokumentation schreiben|30 '|
+|9.B|08.11.23|Alle|Portfolio schreiben|90'|
 
 ## 3 Realisieren
 
@@ -66,17 +68,17 @@ Wir haben in Unity ein 2D Street Fighter im Pixel Design erstellt.
 | ---- | --------- | --------- | ------------- | ----------------- |
 | 1.A  | 20.09.23  | Giovanni  | 180 Minuten   |       180 Minuten|
 | 1.B  | 20.09.23  | Giovanni  | 180 Minuten   | 180 Minuten|
-|Dokumentation schreiben|20.09.23|Giovanni|10|10|
+|9.A|20.09.23|Giovanni|10|10|
 | 2.A  | 18.10.23  | Steven    | 180 Minuten   | 180 Minuten      |
 | 3.A  | 18.10.23  | Giuliano  | 180 Minuten   | 180 Minuten       |
 | 4.A  | 18.10.23  | Giovanni  | 120 Minuten   | 120 Minuten    |
-| Dokumentation schreiben | 18.10.23 | Giuliano | 10 | 10 |
+| 9.A| 18.10.23 | Giuliano | 10 | 10 |
 | 5.A  | 01.11.23  | Giovanni  | 240 Minuten   | 240 Minuten      |
 | 6.A  | 01.11.23  | Steven    | 120 Minuten   | 120 Minuten       |
 | 7.A  | 01.11.23  | Giuliano  | 180 Minuten   | 180 Minuten    |
 | 8.A  | 01.11.23| Giovanni  | 180 Minuten   | 180 Minuten|
-|Dokumentation schreiben|01.11.23|Steven|10|10|
-| Portfolio schreiben | 08.11.23  | Steven, Giovanni, Giuliano | 90 Minuten | 90 Minuten |
+|9.A|01.11.23|Steven|10|10|
+| 9.B| 08.11.23  | Steven, Giovanni, Giuliano | 90 Minuten | 90 Minuten |
 
 
 
